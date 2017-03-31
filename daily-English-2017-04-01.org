@@ -1,0 +1,11 @@
+| bat         | 蝙蝠               |
+| prey        | 猎物               |
+| exploit     | 利用               |
+| thoroughly  | 彻底地             |
+| nocturnal   | active at night    |
+| dominate    | rule, control      |
+| scrape      | 刮掉               |
+| extinction  | 灭绝               |
+| emerge      | to become manifest |
+| substantial | 大量的             |
+
