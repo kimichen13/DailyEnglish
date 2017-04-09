@@ -1,0 +1,4 @@
+| insect      | 昆虫 |
+| muddy water | 浑水 |
+| obstruct    | 阻碍 |
+| scatter     | 分散 |
